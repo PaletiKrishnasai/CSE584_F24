@@ -31,7 +31,7 @@
 
 ### Models
 
-- models folder contains the necessary notebooks to run the experiments.
+- The models folder contains the necessary notebooks to run the experiments.
 - Upload train, eval and test csv files to google drive along with the notebooks in the models folder.
 - Run the notebooks using GPU on colab. 
 - The notebooks will ask HuggingFace access token and WandB access token. You can paste your access tokens form HuggingFace and WandB websites. This will create the model cards automatically after each run.
