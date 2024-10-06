@@ -1,6 +1,6 @@
 # Let's read the contents of the 'xi.txt' file and convert it into a CSV file
-file_path = 'xi.txt'
-output_csv = 'xi.csv'
+file_path = 'controlxi_4.txt'
+output_csv = 'xi_4.csv'
 
 # Reading the content of the text file
 with open(file_path, 'r') as file:

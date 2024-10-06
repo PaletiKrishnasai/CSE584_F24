@@ -1,0 +1,14 @@
+openai
+pandas
+numpy
+python-dotenv
+ipykernel
+groq
+transformers 
+datasets 
+torch
+evaluate 
+accelerate 
+wandb 
+scikit-learn
+bertviz
