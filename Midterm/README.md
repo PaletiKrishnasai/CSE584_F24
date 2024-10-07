@@ -42,3 +42,11 @@
 - The Visualizations folder contains the BertViz notebook used to visualize the attention mechanism in the finetuned and non finetuned models.
 - Upload it to the same drive and run it on GPU.
 
+### HuggingFace Model Cards (BERT)
+
+- BatchSize: 32, LR: 5e-5 :- https://huggingface.co/pk248/584_test3
+- BatchSize: 32, LR: 2e-5 :- https://huggingface.co/pk248/584_32_2
+- BatchSize: 32, LR: 1e-5 :- https://huggingface.co/pk248/584_32_1
+- BatchSize: 16, LR: 5e-5 :- https://huggingface.co/pk248/584_test1_1
+- Metric Run (32, 5e-5) :- https://huggingface.co/pk248/584_test3_metrics
+
