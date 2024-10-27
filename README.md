@@ -9,6 +9,10 @@ Coursework for CSE584 - Fall 24
 - paper 2: https://ojs.aaai.org/index.php/AAAI/article/view/9597
 - paper 3: https://openreview.net/pdf?id=G6ujG6LaKV
 
+### Homework 2
+- code repository: https://github.com/seungeunrho/minimalRL/blob/master/sac.py
+- SAC reference: https://spinningup.openai.com/en/latest/algorithms/sac.html
+
 ## Midterm
 
 - Contains the codebase and report for the Midterm Project.
